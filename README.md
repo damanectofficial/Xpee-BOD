@@ -16,10 +16,10 @@
 <p align="center">
 <a href="https://github.com/ZevanaFTNatgX/followers"><img title="Followers" src="https://img.shields.io/github/followers/ZevanaFTNatgX?color=red&style=flat-square"></a>
 <a href="https://github.com/ZevanaFTNatgX/Xpee-BOD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ZevanaFTNatgX/Xpee-BOD?color=blue&style=flat-square"></a>
-<a href="https://github.com/ZevanaFTNatgX/Xpee-BOD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/Xpee-BOD?color=red&style=flat-square"></a>
+<a href="https://github.com/ZevanaFTNatgX/Xpee-BOD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZevanaFTNatgX/Xpee-BOD?color=red&style=flat-square"></a>
 <a href="https://github.com/ZevanaFTNatgX/Xpee-BOD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/Xpee-BOD?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/ZevanaFTNatgX/Xpee-BOD"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/ZevanaFTNatgX/Xpee-BOD/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/Xpee-BOD?style=flat-square&color=green"></a>
+<a href="https://github.com/ZevanaFTNatgX/Xpee-BOD/"><img title="Size" src="https://img.shields.io/github/repo-size/ZevanaFTNattX/Xpee-BOD?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZevanaFTNatgX%2FXpee-BOD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/ZevanaFTNatgX/Xpee-BOD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
